@@ -1,0 +1,37 @@
+{
+  "textBoxData": {
+    "valid": {
+      "name": "Malithi Gamage",
+      "email": "malithi@gmail.com",
+      "currentAddress": "123 Example Street, Sri Lanka",
+      "permanentAddress": "456 Permanent Street, Sri Lanka"
+    },
+    "invalid": {
+      "email": "invalidemail"
+    }
+  },
+
+  "userData": {
+    "valid": {
+      "firstName": "Malithi",
+      "lastName": "Gamage",
+      "email": "malithi@gmail.com",
+      "age": 25,
+      "salary": 200000,
+      "department": "Quality Assurance"
+    },
+    "invalid": {
+      "email": "invalidemail",
+      "age": -1,
+      "salary": -1
+    },
+    "initial": {
+      "firstName": "Kierra",
+      "lastName": "Gentry",
+      "email": "kierra@example.com",
+      "age": 29,
+      "salary": 2000,
+      "department": "Legal"
+    }
+  }
+}
